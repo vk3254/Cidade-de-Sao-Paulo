@@ -1,0 +1,38 @@
+body {
+	width:100%;
+	max-width:800px;
+	margin:auto;
+	background: url(fundo.jpg) center;
+
+	font-family: 'Roboto';
+	line-height: 1.5;
+	color: #c0c6ca;
+}
+
+main {
+	background:#000000ad;
+	padding: 50px, 40px;
+	margin-top: 20px;
+	border-radius: 10px;
+	text-align: center;
+	
+}
+
+.logo,.line {
+	margin: 0;
+	text-align: center;
+}
+
+.line {
+	margin:0;
+	color: black;
+}
+
+.rodapé {
+	width: 800px;
+	height: 30px;
+	background: white;
+	color: black;
+	background: url(rodapé.jpg) center;
+	font-family: 'Roboto', serify;
+}
